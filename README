@@ -1,0 +1,4 @@
+Some C helping functions for debug
+
+Besides, these codes can be treated as an example of showing how
+variadic macros work in C. 
